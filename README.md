@@ -2,7 +2,7 @@
 
 # My bot's profiles
 
-## Shapes
+## Shapes & Designs
 
 <img src="shapes/solar-flare-bot.png" width=200><img src="shapes/coral-pen-cube.png" width=200><img src="shapes/sand-caramel-bot.png" width=200><img src="shapes/orange-pocket-bot (1).png" width=200><br>
 <img src="shapes/orange-pocket-bot.png" width=200><img src="shapes/peach-cloud-beanie.png" width=200><img src="shapes/golden-sun-bot.png" width=200><img src="shapes/cream-hexagon-beanie.png" width=200><br>
