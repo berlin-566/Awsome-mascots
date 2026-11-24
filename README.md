@@ -1,4 +1,6 @@
-# my-bots
+<div align=center>
+
+# My Bot profiles
 
 <img src="blue-crescent-glasses.png" width=200><img src="blue-headphones-bot.png" width=200><img src="blue-square-glasses.png" width=200><img src="navy-beanie-oval.png" width=200><br>
 <img src="teal-sprout-cube.png" width=200><img src="mint-sprout-bot.png" width=200><img src="sage-green-teardrop-bot.png" width=200><img src="yellow-orange-round-glasses.png" width=200><br>
