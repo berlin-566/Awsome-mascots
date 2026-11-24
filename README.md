@@ -24,4 +24,11 @@
 <img src="animals/brown-beaver-log.png" width=200><img src="animals/brown-groundhog-scarf.png" width=200><img src="animals/gray-koala-scarf.png" width=200><img src="animals/gray-elephant-scarf.png" width=200><br>
 <img src="animals/gray-penguin-scarf.png" width=200><img src="animals/white-unicorn-rainbow.png" width=200>
 
+<br><br>
+
+## OS & Distros
+
+<img src="os/ubuntu-circle-bot.png" width=200><img src="os/tux-penguin-bot.png" width=200><img src="os/opensuse-chameleon-bot.png" width=200><img src="os/fedora-blue-bot.png" width=200><br>
+<img src="os/arch-linux-bot.png" width=200><img src="os/debian-swirl-bot.png" width=200>
+
 </div>
