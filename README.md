@@ -1,6 +1,8 @@
 <div align=center>
 
-# My Bot profiles
+# My bot's profiles
+
+## Shapes
 
 <img src="blue-crescent-glasses.png" width=200><img src="blue-headphones-bot.png" width=200><img src="blue-square-glasses.png" width=200><img src="navy-beanie-oval.png" width=200><br>
 <img src="navy-triangle-beanie.png" width=200><img src="teal-sprout-cube.png" width=200><img src="mint-sprout-bot.png" width=200><img src="sage-green-teardrop-bot.png" width=200><br>
