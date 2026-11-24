@@ -18,7 +18,7 @@
 
 <br><br>
 
-## Animals
+## Animals & Items
 
 <img src="animals/crimson-cardinal-bot.png" width=200><img src="animals/silver-bunny-bot.png" width=200><img src="animals/gray-koala-scarf.png" width=200><img src="animals/white-unicorn-rainbow.png" width=200><br>
 <img src="animals/white-seal-red-hat.png" width=200><img src="animals/red-panda-beanie.png" width=200><img src="animals/magenta-bird-bot.png" width=200><img src="animals/cacao-beaver-bot.png" width=200><br>
